@@ -17,7 +17,7 @@
     under the License.
 -->
 
-# org.apache.cordova.geolocation
+# org.apache.cordova.audiomanager
 
 This plugin provides information about the device's location, such as
 latitude and longitude. Common sources of location information include
